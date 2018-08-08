@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.mail {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 250px;
+  height: 25px;
+  font-size: 20px;
+}
+
+.pass {
+  width: 250px;
+  height: 25px;
+  font-size: 20px;
+}
+
+.check {
+  width: 250px;
+  height: 25px;
+  font-size: 20px;
+}
+
+.logButton {
+  width: 73px;
+  margin-top: 10px;
+}
+
+.cadButton {
+  width: 250px;
+  margin-top: 10px;
+}
+
+.text {
+    float: rigth;
+    margin: 20px;
+    font-size: 200%;
+}
+
+.name {
+  margin-top: 20px;
+  width: 250px;
+  height: 25px;
+  font-size: 20px;
+}
